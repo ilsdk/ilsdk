@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ilsdk
 - 👀 I’m interested in everything 
 - 🌱 I’m currently learning how to live this life 
-- 💞️ I’m looking to collaborate on machine learning 
+ 
 
 
 <!---
