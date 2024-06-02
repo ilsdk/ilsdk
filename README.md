@@ -9,13 +9,13 @@
 
 [Chapter-5](https://github.com/ilsdk/Chapter-5.git)
 
-[Chapter-6](https://github.com/ilsdk/Chapter-6/blob/main/Chapter6.ipynb)
+[Chapter-6](https://github.com/ilsdk/Chapter-6)
 
-[Chapter-7](https://github.com/ilsdk/Chapter-7/blob/main/Chapter7.ipynb)
+[Chapter-7](https://github.com/ilsdk/Chapter-7)
 
-[Chapter-8](https://github.com/ilsdk/Chapter-8/blob/main/Chapter8.ipynb)
+[Chapter-8](https://github.com/ilsdk/Chapter-8)
 
-[Chapter-9](https://github.com/ilsdk/Chapter-9/blob/main/Chapter9.ipynb)
+[Chapter-9](https://github.com/ilsdk/Chapter-9)
 
 # The PowerBi projects are here:
 [Sales report ](https://github.com/ilsdk/PowerBi/blob/main/Sales%20report.pbix)
