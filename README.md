@@ -1,21 +1,21 @@
 - 👋 Hi, I’m @ilsdk
 # The Statistical methods with Python projects are listed from Chapter-2 to Chapter-9:
 
-[Chapter-2](https://github.com/ilsdk/Chapter-2.git)
+[Chapter-2](https://github.com/ilsdk/Chapter-2.git) - Statistical Learning 
 
-[Chapter-3](https://github.com/ilsdk/Chapter-3.git)
+[Chapter-3](https://github.com/ilsdk/Chapter-3.git) - Linear Regression
 
-[Chapter-4](https://github.com/ilsdk/Chapter-4.git)
+[Chapter-4](https://github.com/ilsdk/Chapter-4.git) -  Classification
 
-[Chapter-5](https://github.com/ilsdk/Chapter-5.git)
+[Chapter-5](https://github.com/ilsdk/Chapter-5.git) - Resampling Methods
 
-[Chapter-6](https://github.com/ilsdk/Chapter-6)
+[Chapter-6](https://github.com/ilsdk/Chapter-6) - Linear Model Selection and Regularization
 
-[Chapter-7](https://github.com/ilsdk/Chapter-7)
+[Chapter-7](https://github.com/ilsdk/Chapter-7) -  Polynomial regression and step functions
 
-[Chapter-8](https://github.com/ilsdk/Chapter-8)
+[Chapter-8](https://github.com/ilsdk/Chapter-8) - Tree-based methods for regression and classification
 
-[Chapter-9](https://github.com/ilsdk/Chapter-9)
+[Chapter-9](https://github.com/ilsdk/Chapter-9) - Support Vector Machines
 
 # The PowerBi projects are here:
 [Sales report ](https://github.com/ilsdk/PowerBi/blob/main/Sales%20report.pbix)
