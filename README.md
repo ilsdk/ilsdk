@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @ilsdk
+# Credit scoring and anti-fraud detection
+
+
 # The Statistical methods with Python projects are listed from Chapter-2 to Chapter-9:
 
 [Chapter-2](https://github.com/ilsdk/Chapter-2.git) - Statistical Learning 
