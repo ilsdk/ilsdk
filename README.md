@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilsdk
 # Credit scoring and anti-fraud detection
-
+[Project](https://github.com/ilsdk/Credit-Scoring) - Credit scoring and anti-fraud detection models
 
 # The Statistical methods with Python projects are listed from Chapter-2 to Chapter-9:
 
