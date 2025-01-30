@@ -22,10 +22,13 @@
 
 # The PowerBi projects:
 
+[Sales report with inventory](https://drive.google.com/file/d/15lTy-efTtPnhdEFVUh582HTsnUq7Qhjt/view?usp=sharing)
+
 [Sales report ](https://github.com/ilsdk/PowerBi/blob/main/Sales%20report.pbix)
 
 [Kevin Financial report](https://github.com/ilsdk/PowerBi/blob/main/Kevin%20Fin.pbix)
- 
+
+
 
 
 <!---
